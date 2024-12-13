@@ -1,4 +1,4 @@
-![N|Solid](https://avatars.githubusercontent.com/u/63256544?v=4)\
+![N|Solid](pictures/63256544.png)\
 
 ## _Sergey Gilev_
 
