@@ -1,4 +1,4 @@
-![N|Solid](https://gilevser.github.io/GitHubPage/pictures/63256544.png)\
+![N|Solid](./pictures/63256544.png)\
 
 ## _Sergey Gilev_
 
